@@ -35,3 +35,34 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Общие файлы
+*.class
+*.log
+*.war
+*.jar
+*.iml
+.DS_Store
+
+# Системные файлы
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# Maven и Gradle
+.mvn/
+target/
+build/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Spring Boot конфиденциальные файлы
+application.properties
+application.yml

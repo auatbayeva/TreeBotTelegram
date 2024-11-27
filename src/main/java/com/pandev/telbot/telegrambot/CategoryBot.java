@@ -78,7 +78,7 @@ public class CategoryBot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotUsername() {
-        return "PandevCategoryTreeBot"; // Указанное имя бота.
+        return "YourUsername"; // Указанное имя бота.
     }
 
     /**
@@ -88,6 +88,6 @@ public class CategoryBot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotToken() {
-        return "7583471918:AAFAUwa8CRTaHBCfxIzg0HNsPV47AZ1v7CI"; // Токен, выданный Telegram.
+        return "YourToken"; // Токен, выданный Telegram.
     }
 }
